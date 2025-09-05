@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Class-Path: junit-jupiter-5.9.2.jar junit-platform-commons-1.9.2.jar jun
- it-jupiter-engine-5.9.2.jar apiguardian-api-1.1.2.jar junit-jupiter-par
- ams-5.9.2.jar junit-jupiter-api-5.9.2.jar junit-platform-engine-1.9.2.j
- ar junit-platform-launcher-1.9.2.jar opentest4j-1.2.0.jar
-
